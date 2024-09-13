@@ -1,4 +1,4 @@
-# React Application with Redux
+# React Application with createSlice
 
 This documentation outlines the setup and configuration of a React application using traditional Redux methods with TypeScript and Tailwind CSS.
 
@@ -7,7 +7,7 @@ This documentation outlines the setup and configuration of a React application u
 1. **Create a React App:**
 
     ```bash
-    npx create-react-app react-redux-app --template typescript
+    npx create vite@lattest typescript
     ```
 
 2. **Install Dependencies:**
