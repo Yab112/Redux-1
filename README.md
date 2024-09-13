@@ -4,14 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redux Method Documentation</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
-        h1, h2 { color: #333; }
-        .container { padding: 20px; }
-        code { background: #f4f4f4; padding: 0.2em 0.4em; border-radius: 3px; }
-        pre { background: #f4f4f4; padding: 10px; border-radius: 3px; overflow: auto; }
-        ul { margin: 0; padding: 0 0 0 20px; }
-    </style>
+    
 </head>
 <body>
     <div class="container">
